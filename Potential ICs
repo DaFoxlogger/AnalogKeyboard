@@ -1,0 +1,15 @@
+Main chip (1 per side):
+
+STM32F411CEU6TR(Black Pill) (8,92€) (some extra parts required)
+https://www.mouser.de/ProductDetail/STMicroelectronics/STM32F411CEU6?qs=pjMTYa9MTGV3ou31YBFa3g%3D%3D&_gl=1*3j1m8d*_ga*dW5kZWZpbmVk*_ga_15W4STQT4T*dW5kZWZpbmVk*_ga_1KQLCYKRX3*dW5kZWZpbmVk
+
+Secondary chips (connection between switches and main IC):
+
+STM32F103x8(Blue Pill) (3,88€) (16 ADC channels per chip)
+https://bit.ly/3qRulqy
+
+ATmega2560 (14,80€) (16 ADC channels per chip)
+https://www.reichelt.com/at/en/8-bit-atmega-avr-microcontroller-256-kb-16-mhz-tqfp-100-atmega-2560-16au-p68178.html?&trstct=pos_0&nbc=1
+
+STM8S105C4T6 (2,77€) (10 ADC channels per chip)
+https://www.reichelt.com/at/en/stm8s-8-bit-mcu-16-mhz-32-kb-2-kb-lqfp-48-stm8s105c4t6-p264087.html?&trstct=pos_1&nbc=1
