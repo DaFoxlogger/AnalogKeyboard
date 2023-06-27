@@ -5,7 +5,7 @@ https://www.mouser.de/ProductDetail/STMicroelectronics/STM32F411CEU6?qs=pjMTYa9M
 
 Secondary chips (connection between switches and main IC):
 
-STM32F103x8(Blue Pill) (3,88€) (16 ADC channels per chip)
+STM32F103x8(Blue Pill) (3,88€) (10 ADC channels per chip)
 https://www.ebay.de/itm/402628497536?chn=ps&var=672908493649&norover=1&mkevt=1&mkrid=7071533165376683&mkcid=2&itemid=672908493649_402628497536&targetid=4582833206194173&device=c&mktype=&googleloc=&poi=&campaignid=376712745&mkgroupid=1267737623409783&rlsatarget=pla-4582833206194173&abcId=9300540&merchantid=87778&msclkid=3ae8dc51e7b81b93a51bb8c43e094198
 
 ATmega2560 (14,80€) (16 ADC channels per chip)
