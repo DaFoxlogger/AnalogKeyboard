@@ -1,4 +1,4 @@
-# AnalogKeyboard
-(WIP) An open source analog split keyboard with rapid trigger function that *maybe* will also work with normal mechanical switches
+# HallEffectKeyboard
+(WIP) An open source 94-Key keyboard using riskable's void_switch for hall effect switches
 Sources weren't all used, might weed out the unused ones later so only necessary stuff is present
-Normal Version might be worked on afterwards
+Secial versions might be made later
