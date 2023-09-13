@@ -1,5 +1,5 @@
 # HallEffectKeyboard
-(WIP) An open source 94-Key keyboard using riskable's void_switch for hall effect switches
+(WIP) An open source 94-Key keyboard using riskable's void_switch
 
 Special versions might be made later
 
